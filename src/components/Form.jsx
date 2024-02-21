@@ -1,6 +1,19 @@
 import React from 'react'
 
-const Form = () => {
+const Form = ({setShowHeadlines, setShowGif}) => {
+    const handleButtonClick = () => {
+    
+        setShowHeadlines(false);
+        setShowGif(true);
+
+        setTimeout(() => {
+            setShowHeadlines(true);
+            setShowGif(false);
+          }, 3200);
+      };
+    
+
+
   return (
     <section class="text-gray-600 body-font ">
   <div class=" px-8 py-12 ">
@@ -68,7 +81,7 @@ const Form = () => {
           </div>
         </div>
         <div class="p-2 w-full">
-          <button class="flex mx-2 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">জমা দিন</button>
+          <button onClick={handleButtonClick} class="flex mx-2 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">জমা দিন</button>
         </div>
         
       </div>

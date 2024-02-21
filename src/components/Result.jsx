@@ -6,7 +6,7 @@ const Result = () => {
           <h1 class="sm:text-3xl text-center text-2xl font-medium title-font mb-4  text-gray-900">সম্ভাব্য শিরোনাম সমূহ  </h1>
         <div className='w-[90%]  rounded-md  border-gray-400 border-2 bg-slate-200 p-4 pt-8 mt-12 mx-auto hover:bg-blue-300 hover:border-blue-900 hover:border-2'>
         <div className='text-xl'>
-        মায়ের সাহসী সন্তানদের অনন্য আত্মত্যাগের এই দিনকে জাতিসংঘের শিক্ষা, বিজ্ঞান ও সংস্কৃতিবিষয়ক সংস্থা 
+        প্রাণের গান, প্রাণের ভাষাকে ভালোবেসে বর্ণমেলার শুরু
         </div>
         
             <div className='w-full text-sm flex text-red-800 justify-end'>
@@ -16,7 +16,7 @@ const Result = () => {
 
         <div className='w-[90%]  rounded-md  border-gray-400 border-2 bg-slate-200 p-4 pt-8 mt-4 mx-auto hover:bg-blue-300 hover:border-blue-900 hover:border-2'>
         <div className='text-xl'>
-        মায়ের সাহসী সন্তানদের অনন্য আত্মত্যাগের এই দিনকে জাতিসংঘের শিক্ষা, বিজ্ঞান ও সংস্কৃতিবিষয়ক সংস্থা 
+        মাতৃভাষা দিবস উপলক্ষে প্রথম আলো আয়োজন করেছে বর্ণমেলা 
         </div>
         
             <div className='w-full text-sm flex text-red-800 justify-end'>
@@ -26,7 +26,7 @@ const Result = () => {
 
         <div className='w-[90%]  rounded-md  border-gray-400 border-2 bg-slate-200 p-4 pt-8 mt-4 mx-auto hover:bg-blue-300 hover:border-blue-900 hover:border-2'>
         <div className='text-xl'>
-        মায়ের সাহসী সন্তানদের অনন্য আত্মত্যাগের এই দিনকে জাতিসংঘের শিক্ষা, বিজ্ঞান ও সংস্কৃতিবিষয়ক সংস্থা 
+        নতুন প্রজন্মের মধ্যে বাংলা বর্ণ, ভাষা ও ভাষা আন্দোলনের মহিমা ছড়িয়ে দেওয়ার লক্ষ্যে প্রথম আলো নিয়মিত এ বর্ণমেলার আয়োজন
         </div>
         
             <div className='w-full text-sm flex text-red-800 justify-end'>
@@ -36,7 +36,7 @@ const Result = () => {
 
         <div className='w-[90%]  rounded-md  border-gray-400 border-2 bg-slate-200 p-4 pt-8 mt-4 mx-auto hover:bg-blue-300 hover:border-blue-900 hover:border-2'>
         <div className='text-xl'>
-        মায়ের সাহসী সন্তানদের অনন্য আত্মত্যাগের এই দিনকে জাতিসংঘের শিক্ষা, বিজ্ঞান ও সংস্কৃতিবিষয়ক সংস্থা 
+        রক্তের বিনিময়ে অর্জিত বাংলা ভাষার মর্যাদা রক্ষার দায়িত্ব আমাদের সবার :  ফেরদৌস 
         </div>
         
             <div className='w-full text-sm flex text-red-800 justify-end'>
@@ -46,7 +46,7 @@ const Result = () => {
 
         <div className='w-[90%]  rounded-md  border-gray-400 border-2 bg-slate-200 p-4 pt-8 mt-4 mx-auto hover:bg-blue-300 hover:border-blue-900 hover:border-2'>
         <div className='text-xl'>
-        মায়ের সাহসী সন্তানদের অনন্য আত্মত্যাগের এই দিনকে জাতিসংঘের শিক্ষা, বিজ্ঞান ও সংস্কৃতিবিষয়ক সংস্থা 
+        ১৯৫২ সালের শোককে শক্তিতে পরিণত করাতেই দেশ বর্তমান অবস্থানে এসেছে :  ফেরদৌস 
         </div>
         
             <div className='w-full text-sm flex text-red-800 justify-end'>
@@ -55,7 +55,7 @@ const Result = () => {
         </div>
         <div className='w-[90%]  rounded-md  border-gray-400 border-2 bg-slate-200 p-4 pt-8 mt-4 mx-auto hover:bg-blue-300 hover:border-blue-900 hover:border-2'>
         <div className='text-xl'>
-        মায়ের সাহসী সন্তানদের অনন্য আত্মত্যাগের এই দিনকে জাতিসংঘের শিক্ষা, বিজ্ঞান ও সংস্কৃতিবিষয়ক সংস্থা 
+        বর্ণমেলায় চলছে ছোট্ট সোনামণিদের হাতেখড়ি
         </div>
         
             <div className='w-full text-sm flex text-red-800 justify-end'>
